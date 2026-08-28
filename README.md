@@ -72,18 +72,11 @@ products — from the database and API layer up to a polished, interactive UI.
 <br/>
 
 ## 📊 Performance & Statistics
-<div align="center">
-  <table border="0">
-    <tr>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=SaiKarthik&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&include_all_commits=true" width="100%" alt="GitHub Stats" />
-      </td>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaiKarthik&layout=compact&theme=tokyonight&hide_border=false" width="100%" alt="Most Used Languages" />
-      </td>
-    </tr>
-  </table>
-</div>
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SaiKarthik&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaiKarthik&layout=compact&theme=tokyonight&hide_border=false" alt="Most Used Languages" />
+</p>
 
 <br/>
 
