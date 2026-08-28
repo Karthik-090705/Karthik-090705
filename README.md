@@ -70,9 +70,8 @@ products — from the database and API layer up to a polished, interactive UI.
 </div>
 
 <br/>
-<!-- Performance & Statistics Section -->
-## 📊 Performance & Statistics
 
+## 📊 Performance & Statistics
 <div align="center">
   <table border="0">
     <tr>
