@@ -102,11 +102,3 @@ products — from the database and API layer up to a polished, interactive UI.
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg?user=SaiKarthik" alt="Snake contribution animation" />
 </div>
 <br/>
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SaiKarthik&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaiKarthik&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-<br/>
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=SaiKarthik&style=for-the-badge&color=39d6c8" alt="Profile views" />
-</div>
