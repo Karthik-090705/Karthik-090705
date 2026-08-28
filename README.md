@@ -1,17 +1,4 @@
-## Hi there 👋
-
 <!--
-**Karthik-090705/Karthik-090705** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...<!--
   ============================================================
   SETUP CHECKLIST (delete this comment block once you're done)
   ============================================================
@@ -20,15 +7,16 @@ Here are some ideas to get you started:
      check "Add a README file" when creating it).
   2. Find-and-replace "YOUR-USERNAME" everywhere in this file with your
      real GitHub username.
-  3. Upload "lanyard-card.svg" (the file next to this one) to the ROOT of
-     that same repo, then in it replace:
+  3. Upload "hero-banner.svg" AND "lanyard-card.svg" (the files next to
+     this one) to the ROOT of that same repo. In each of them, replace:
        - "Sai Karthik"                -> your name
        - "Full-Stack Developer..."    -> your title
-       - the STACK / FOCUS lines      -> your stack / focus
-       - the GITHUB line              -> @YOUR-USERNAME
+       - the STACK / FOCUS / tag pills -> your own stack
+       - "@YOUR-USERNAME"             -> your real handle
        - the <image href="...">       -> https://github.com/YOUR-USERNAME.png
-     (Any image editor isn't needed — it's plain text, open it in any
-     text/code editor.)
+         (or a direct link to your own photo)
+     (No image editor needed — these are plain text files, open them in
+     any text/code editor.)
   4. Swap the social links below for your real ones, and remove any
      rows you don't use.
   5. Commit + push. GitHub renders this as your profile page.
@@ -36,11 +24,9 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=39D6C8&center=true&vCenter=true&width=560&lines=Hi+there%2C+I'm+Sai+Karthik+%F0%9F%91%8B;Full-Stack+Developer+%26+AI%2FML+Enthusiast;Building+AI-powered+%2B+full-stack+projects;Currently+working+on+my+Final+Year+Project" alt="Typing SVG" />
-</a>
+<img src="./hero-banner.svg" width="820" alt="Terminal intro banner" />
 
-<br/>
+<br/><br/>
 
 <img src="./lanyard-card.svg" width="260" alt="Developer ID card" />
 
@@ -127,6 +113,3 @@ products — from the database and API layer up to a polished, interactive UI.
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=YOUR-USERNAME&style=for-the-badge&color=39d6c8" alt="Profile views" />
 </div>
-
-- ⚡ Fun fact: ...
--->
