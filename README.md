@@ -97,8 +97,13 @@ products — from the database and API layer up to a polished, interactive UI.
 
 <br/>
 
-## 📊 GitHub Stats
+## Contribution Activity Graph
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg?user=SaiKarthik" alt="Snake contribution animation" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/karthik-090705/karthik-090705/output/github-contribution-grid-snake-dark.svg?v=1">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/karthik-090705/karthik-090705/output/github-contribution-grid-snake.svg?v=1">
+  <img alt="Snake Contribution Graph" src="https://raw.githubusercontent.com/karthik-090705/karthik-090705/output/github-contribution-grid-snake.svg?v=1" width="100%">
+</picture>
+
 </div>
-<br/>
