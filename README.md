@@ -77,34 +77,38 @@ products — from the database and API layer up to a polished, interactive UI.
   <tr>
     <td width="50%" valign="top">
       <h3>🛰️ AI-Based Epidemic Outbreak Prediction</h3>
-      <p>Final Year Project predicting disease-outbreak risk from satellite
-      environmental data, including a Paederus insect-spread case study for
-      West Godavari, Andhra Pradesh.</p>
+      <p>Final Year Project predicting disease-outbreak risk from
+      satellite environmental data, including a Paederus insect-
+      spread case study for West Godavari, Andhra Pradesh.</p>
       <a href="https://github.com/YOUR-USERNAME/YOUR-REPO-NAME">
         <img src="https://img.shields.io/badge/View%20Project-39D6C8?style=flat-square&logo=github&logoColor=black" />
       </a>
     </td>
     <td width="50%" valign="top">
       <h3>🧵 Tailoring Shop Customer App</h3>
-      <p>A customer-management application built for a family tailoring
-      business, to track orders and customers in one place.</p>
+      <p>A customer-management application built for a family
+      tailoring business, to track orders and customers in one
+      place.</p>
+      <a href="https://github.com/YOUR-USERNAME/YOUR-REPO-NAME">
+        <img src="https://img.shields.io/badge/View%20Project-39D6C8?style=flat-square&logo=github&logoColor=black" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📚 CourseWhiz</h3>
+      <p>An AI-powered study platform that answers questions from
+      uploaded PDFs and auto-generates quizzes, flashcards,
+      summaries, and supporting images from selected text.</p>
       <a href="https://github.com/YOUR-USERNAME/YOUR-REPO-NAME">
         <img src="https://img.shields.io/badge/View%20Project-39D6C8?style=flat-square&logo=github&logoColor=black" />
       </a>
     </td>
     <td width="50%" valign="top">
-      <h3>📚 CourseWhiz</h3>
-      <p>An AI-powered study platform that takes PDFs as input and answers
-      questions based on the given document. It also generates quizzes,
-      flashcards, and summaries from the PDF, and creates supporting images
-      from selected text — similar to Napkin AI.</p>
-      <a href="https://github.com/YOUR-USERNAME/YOUR-REPO-NAME">
-        <img src="https://img.shields.io/badge/View%20Project-6C5CE7?style=flat-square&logo=github&logoColor=white" />
-      </a>
+      <!-- next project goes here, or leave empty to keep the row balanced -->
     </td>
   </tr>
 </table>
-
 <br/>
 
 ### 🐍 Contribution Activity Graph
