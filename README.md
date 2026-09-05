@@ -104,8 +104,15 @@ products — from the database and API layer up to a polished, interactive UI.
         <img src="https://img.shields.io/badge/View%20Project-39D6C8?style=flat-square&logo=github&logoColor=black" />
       </a>
     </td>
-    <td width="50%" valign="top">
-      <!-- next project goes here, or leave empty to keep the row balanced -->
+      <td width="50%" valign="top">
+        <h3>🏨 Hotel Room Booking Management System</h3>
+        <p>A web app for managing hotel room bookings, where admins can
+        manage rooms and users can book them. Currently supports full
+        CRUD operations with room images, and is being extended with
+        more features.</p>
+        <a href="https://github.com/YOUR-USERNAME/YOUR-REPO-NAME">
+          <img src="https://img.shields.io/badge/View%20Project-39D6C8?style=flat-square&logo=github&logoColor=black" />
+        </a>
     </td>
   </tr>
 </table>
