@@ -92,6 +92,16 @@ products — from the database and API layer up to a polished, interactive UI.
         <img src="https://img.shields.io/badge/View%20Project-39D6C8?style=flat-square&logo=github&logoColor=black" />
       </a>
     </td>
+    <td width="50%" valign="top">
+      <h3>📚 CourseWhiz</h3>
+      <p>An AI-powered study platform that takes PDFs as input and answers
+      questions based on the given document. It also generates quizzes,
+      flashcards, and summaries from the PDF, and creates supporting images
+      from selected text — similar to Napkin AI.</p>
+      <a href="https://github.com/YOUR-USERNAME/YOUR-REPO-NAME">
+        <img src="https://img.shields.io/badge/View%20Project-6C5CE7?style=flat-square&logo=github&logoColor=white" />
+      </a>
+    </td>
   </tr>
 </table>
 
